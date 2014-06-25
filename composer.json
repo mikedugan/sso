@@ -1,7 +1,7 @@
 {
     "name": "mikedugan/vatsim-sso",
     "description": "SSO libraries for integration with VATUSA web services",
-	"keywords": ["vatsim", "sso", "auth"]
+	"keywords": ["vatsim", "sso", "auth"],
     "license": "MIT",
     "authors": [
         {
