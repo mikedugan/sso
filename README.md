@@ -6,7 +6,7 @@ SSO composer library for VATSIM user authentication
 
 To include it via composer add the following line in your "require" to composer.json:
 
-```bash
+```json
 "mikedugan/vatsim-sso": "dev-master"
 ```
 
